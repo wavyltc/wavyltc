@@ -21,9 +21,8 @@ Witam na moim profilu GitHub! Uwielbiam tworzyć projekty, poznawać nowe techno
 ---
 
 ## 📌 Wybrane projekty
-🌟 [**Projekt Pierwszy**](https://github.com/your-username/project-one) – Aplikacja rozwiązująca problem XYZ.  
-🌟 [**Projekt Drugi**](https://github.com/your-username/project-two) – Narzędzie oparte o Node.js i Python.  
-🌟 [**Projekt Trzeci**](https://github.com/your-username/project-three) – Moja zabawa z Go i JavaScriptem.  
+🌟 [**WaveShop**](https://discord.gg/waveshop) – Nowoczesny Sklep.
+🌟 [**SzybkiKod**](https://szybkikod.pl) – Narzędzie oparte o Node.js i Python.  
 
 ---
 
