@@ -1,41 +1,43 @@
-# Hi there 👋, I'm Lusive  
+# Cześć 👋, jestem Lusive  
 
-🌱 **Developer | Learner | Builder**  
+🚀 **Programista | Odkrywca | Twórca**  
 
-Welcome to my GitHub! I love creating projects that solve problems, learning new technologies, and contributing to the open-source community.  
-
----
-
-## 🔧 Tech & Tools
-![HTML5](https://img.shields.io/badge/Code-HTML5-orange?style=flat&logo=html5) 
-![CSS3](https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3) 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript) 
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python) 
-![Node.js](https://img.shields.io/badge/Code-Node.js-green?style=flat&logo=node.js)  
-![Git](https://img.shields.io/badge/Tools-Git-red?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/Tools-GitHub-black?style=flat&logo=github) 
-![VSCode](https://img.shields.io/badge/Tools-VSCode-blue?style=flat&logo=visual-studio-code)
+Witam na moim profilu GitHub! Uwielbiam tworzyć projekty, poznawać nowe technologie i rozwijać swoje umiejętności w praktyce.  
 
 ---
 
-## 📌 Featured Projects
-🌟 [**Project One**](https://github.com/your-username/project-one) – A cool app that does XYZ.  
-🌟 [**Project Two**](https://github.com/your-username/project-two) – Solves ABC problem with DEF.  
-🌟 [**Project Three**](https://github.com/your-username/project-three) – Fun side project using GHI.  
+## 🔧 Technologie i narzędzia
+![HTML5](https://img.shields.io/badge/Kod-HTML5-orange?style=flat&logo=html5) 
+![CSS3](https://img.shields.io/badge/Kod-CSS3-blue?style=flat&logo=css3) 
+![JavaScript](https://img.shields.io/badge/Kod-JavaScript-yellow?style=flat&logo=javascript) 
+![Python](https://img.shields.io/badge/Kod-Python-blue?style=flat&logo=python) 
+![Go](https://img.shields.io/badge/Kod-Go-00ADD8?style=flat&logo=go) 
+![Node.js](https://img.shields.io/badge/Kod-Node.js-green?style=flat&logo=node.js)  
+
+![Git](https://img.shields.io/badge/Narzędzie-Git-red?style=flat&logo=git) 
+![GitHub](https://img.shields.io/badge/Narzędzie-GitHub-black?style=flat&logo=github) 
+![VSCode](https://img.shields.io/badge/Edytor-VSCode-blue?style=flat&logo=visual-studio-code)  
 
 ---
 
-## 📊 GitHub Stats
-![Lusive's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+## 📌 Wybrane projekty
+🌟 [**Projekt Pierwszy**](https://github.com/your-username/project-one) – Aplikacja rozwiązująca problem XYZ.  
+🌟 [**Projekt Drugi**](https://github.com/your-username/project-two) – Narzędzie oparte o Node.js i Python.  
+🌟 [**Projekt Trzeci**](https://github.com/your-username/project-three) – Moja zabawa z Go i JavaScriptem.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+---
+
+## 📊 Statystyki GitHub
+![Statystyki Lusive](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌍 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+## 🌍 Znajdź mnie tutaj
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://twoja-strona.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/twoj-link)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/twoj-handle)  
 
 ---
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
+✨ _„Kod jest jak żart — jeśli musisz go tłumaczyć, to nie jest dobry.”_  
