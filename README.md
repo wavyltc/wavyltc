@@ -1,7 +1,7 @@
-<!-- HERO -->
+
 <div align="center">
 
-<!-- custom banner (SVG gradient text) -->
+
 <svg width="720" height="180" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wavy banner">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
@@ -25,11 +25,10 @@
 
 <br/>
 
-<!-- short bio -->
+
 <h3>👋 Cześć, jestem Wavy</h3>
 <p>Buduję rzeczy, które działają. Lubię prostotę, automatyzację i szybkie iteracje.</p>
 
-<!-- minimal “status” strip -->
 <img src="https://img.shields.io/badge/focus-automation%20%7C%20e-commerce%20%7C%20devtools-0B0F14?style=for-the-badge&labelColor=111827&color=0B0F14">
 </div>
 
@@ -88,7 +87,6 @@
   </svg>
 </p>
 
-> Minimalne, czytelne, ciemny motyw. Zero “plastikowych” odznak.
 
 ---
 
