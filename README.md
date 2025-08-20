@@ -93,16 +93,12 @@
 ## 🧩 Projekty
 - **WaveShop** — nowoczesny sklep (społeczność): <a href="https://discord.gg/waveshop">discord.gg/waveshop</a>  
 - **SzybkiKod** — narzędzia dev (Node.js + Python): <a href="https://szybkikod.pl">szybkikod.pl</a>  
-
-> + screenshoty / GIF-y mile widziane — wrzuć do repo i podlinkuj jako `![nazwa](./sciezka.gif)`.
-
 ---
 
 ## 📈 Sekcja “dla ciekawych”
 <details>
   <summary>klik, jeśli chcesz zobaczyć staty</summary>
 
-  <!-- użyj własnej nazwy użytkownika -->
   <img src="https://github-readme-stats.vercel.app/api?username=wavyltc&show_icons=true&hide_title=true&theme=merko" alt="stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wavyltc&layout=compact&theme=merko" alt="langs" />
