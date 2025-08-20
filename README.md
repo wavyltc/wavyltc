@@ -28,9 +28,9 @@ Witam na moim profilu GitHub! Uwielbiam tworzyć projekty, poznawać nowe techno
 ---
 
 ## 📊 Statystyki GitHub
-![Statystyki Lusive](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Statystyki Lusive](https://github-readme-stats.vercel.app/api?username=wavyltc&show_icons=true&theme=tokyonight)  
 
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=wavyltc&layout=compact&theme=tokyonight)  
 
 ---
 
